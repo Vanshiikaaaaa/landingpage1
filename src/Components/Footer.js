@@ -21,10 +21,10 @@ const Footer = () => {
       </div>
       <div className="footer-section-two">
         <div className="footer-section-columns">
-          <span>Qualtiy</span>
+          <span>Quality</span>
           <span>Help</span>
           <span>Share</span>
-          <span>Carrers</span>
+          <span>Careers</span>
           <span>Testimonials</span>
           <span>Work</span>
         </div>
